@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi everybody! My name is Vlad :wave:
+### I'm looking for a Job as a Software QA Engineer :ballot_box_with_check:
 
-<!--
-**khamitskiy-vlad/khamitskiy-vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My cv is :link:<a href="https://drive.google.com/file/d/1JLZaOi7nhB-fEBaY5zcWY_SkYF6508DL/view?usp=sharing">here</a>.
 
-Here are some ideas to get you started:
+My projects (Test artifacts, Postman, SQL) is :link:<a href="https://drive.google.com/drive/folders/1S2GnpBI1fIMo22tMsjhf2fH5kLYCsPo3?usp=sharing">here</a> and in profile repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Links to contact me:
+- :iphone: <a href="https://t.me/vladislav_khamitskiy">Telegram</a>
+- :busts_in_silhouette: <a href="http://www.linkedin.com/in/vladislav-khamitskiy">LinkedIn</a>
+- :e-mail: vladislaviktorovic@gmail.com
+
+Thanks for visiting my GitHub. I wish you all the best quality software :open_hands::sparkles:
