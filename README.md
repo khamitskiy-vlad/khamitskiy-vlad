@@ -31,8 +31,8 @@ Looking for a Job :briefcase:
 - [Google Drive](https://docs.google.com/spreadsheets/d/19GfIMoSUMv4SNSAXyacFTqSZoW7Z5mlT/edit?usp=sharing&ouid=107443168054211483345&rtpof=true&sd=true)
 - [Repository](https://github.com/khamitskiy-vlad/Test-Design/blob/main/Decision%20Table/Decision%20Table.xlsx)
 ## Contacts
-<img height="18" width="18" src="https://unpkg.com/simple-icons@v7/icons/telegram.svg" /> [Telegram](https://t.me/vladislav_khamitskiy)
+:iphone: [Telegram](https://t.me/vladislav_khamitskiy)
 
-<img height="18" width="18" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" /> [LinkedIn](http://www.linkedin.com/in/vladislav-khamitskiy)
+:busts_in_silhouette: [LinkedIn](http://www.linkedin.com/in/vladislav-khamitskiy)
 
-<img height="15" width="15" src="https://unpkg.com/simple-icons@v7/icons/gmail.svg" /> vladislaviktorovic@gmail.com
+:email: vladislaviktorovic@gmail.com
