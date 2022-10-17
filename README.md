@@ -22,7 +22,7 @@ Looking for a Job :briefcase:
 > 
 > :open_file_folder: SQL Queries
 > - SELECTs  
->   - [Google Drive](https://drive.google.com/drive/folders/189hku17o1N1dxqSKfucZFfrIDOcYQc0p?usp=sharing)  
+>   - [Google Sheets](https://docs.google.com/spreadsheets/d/1dM5fOMXGBkKB_CEcqGjFBr1ZJLbvvcyZ/edit?usp=sharing&ouid=107443168054211483345&rtpof=true&sd=true)  
 >   - [Repository](https://github.com/khamitskiy-vlad/SQL)
 
 > ### Test Design Techniques
@@ -31,7 +31,7 @@ Looking for a Job :briefcase:
 > - [Repository](https://github.com/khamitskiy-vlad/Test-Design/tree/main/Pairwise)
 > 
 > :open_file_folder: Decision Table
-> - [Google Drive](https://docs.google.com/spreadsheets/d/19GfIMoSUMv4SNSAXyacFTqSZoW7Z5mlT/edit?usp=sharing&ouid=107443168054211483345&rtpof=true&sd=true)
+> - [Google Sheets](https://docs.google.com/spreadsheets/d/19GfIMoSUMv4SNSAXyacFTqSZoW7Z5mlT/edit?usp=sharing&ouid=107443168054211483345&rtpof=true&sd=true)
 > - [Repository](https://github.com/khamitskiy-vlad/Test-Design/blob/main/Decision%20Table/Decision%20Table.xlsx)
 ## Contacts
 :iphone: [Telegram](https://t.me/vladislav_khamitskiy)
