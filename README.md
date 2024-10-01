@@ -1,7 +1,5 @@
 # Khamitskiy Vladislav
-Technical Writer and System Analyst in [aQsi](https://aqsi.ru/).
-
-I switched to **Ruby on Rails** developer and right now working on my own projects.
+**Ruby on Rails** developer and right now working on my own projects.
 
 ### Contacts
 :iphone: [Telegram](https://t.me/vladislav_khamitskiy)
