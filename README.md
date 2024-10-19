@@ -1,5 +1,5 @@
 # Khamitskiy Vladislav
-**Ruby on Rails / Django** developer and right now working on my own projects.
+**Ruby on Rails** developer.
 
 ### Contacts
 :iphone: [Telegram](https://t.me/vladislav_khamitskiy)
